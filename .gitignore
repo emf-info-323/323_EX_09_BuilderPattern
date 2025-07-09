@@ -1,0 +1,8 @@
+# Fichiers OSX
+Thumbs.db
+.DS_Store
+
+# Logs
+logs
+*.log
+
